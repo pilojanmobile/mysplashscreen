@@ -1,8 +1,8 @@
 name: mysplashscreen
-description: A new Flutter package project.
+description: You can create splashscreen easily.
 version: 0.0.1
-author:
-homepage:
+author: Sivan Pilojan<pilojan992@gmail.com>
+homepage: https://github.com/pilojanmobile/mysplashscreen.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
