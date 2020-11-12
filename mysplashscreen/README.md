@@ -19,7 +19,7 @@ home: MySplashScreen(
 ```
  You can user Asset image also , Ex:using assetimage:"assets/image.png" 
 
-<img src="image.jpg" height="300"><img src="image1.jpg" height="300">
+<img src="image.jpg" height="300"/><img src="image1.jpg" height="300"/>
 
 [Exmaple Project](https://github.com/pilojanmobile/SplashScreenExmaple)
 
