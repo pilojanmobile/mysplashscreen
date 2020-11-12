@@ -21,5 +21,7 @@ home: MySplashScreen(
 
 <img src="image.jpg" height="300"><img src="image1.jpg" height="300">
 
+[Exmaple Project](https://github.com/pilojanmobile/SplashScreenExmaple)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
