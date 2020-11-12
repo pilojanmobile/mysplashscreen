@@ -1,14 +1,22 @@
-# mysplashscreen
+# Usage
 
-A new Flutter package project.
+You can use the mysplashscreen package. This works both on iOS and Android.
 
-## Getting Started
+## Example
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+```flutter
+import import 'package:mysplashscreen/mysplashscreen.dart';
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+home: MySplashScreen(
+          loadtimeSec: 10,
+          loading: true,
+          nextscreen: Gonext(),
+          backcolor: Colors.brown,
+          bottomtext: 'My Splash Screen',
+          bottomtextstyle: TextStyle(
+              color: Colors.white, fontSize: 15, fontWeight: FontWeight.bold),
+        ));
+```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
