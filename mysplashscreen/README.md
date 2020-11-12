@@ -5,7 +5,7 @@ You can use the mysplashscreen package. This works both on iOS and Android.
 ## Example
 
 ```flutter
-import import 'package:mysplashscreen/mysplashscreen.dart';
+import 'package:mysplashscreen/mysplashscreen.dart';
 
 home: MySplashScreen(
           loadtimeSec: 10,
@@ -17,8 +17,9 @@ home: MySplashScreen(
               color: Colors.white, fontSize: 15, fontWeight: FontWeight.bold),
         ));
 ```
-## Example Code
-[Example Code](https://github.com/pilojanmobile/SplashScreenExmaple)
+ You can user Asset image also , Ex:using assetimage:"assets/image.png" 
+
+<img src="image.jpg" height="300"><img src="image1.jpg" height="300">
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
